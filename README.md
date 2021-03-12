@@ -13,8 +13,8 @@
 * F5 to start the app
 
 ## Usage
-* Register / Log in (Not implemented yet)
+* Register / Log in (Almost finished)
 * Press on a dice icon to get a random joke
 * Press on a trophy icon to get the random high rated joke
 * Press on a plus icon to add new joke
-* Upvote or downvote joke (Not implemented yet)
+* Upvote or downvote joke (Not finished yet)
